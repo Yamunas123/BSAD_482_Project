@@ -7,5 +7,3 @@ Dave was here
   \/. \-|
 __( :  )|_  dkm
 ```
-
-Adding changes
