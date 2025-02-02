@@ -22,19 +22,19 @@ Cybercrime is projected to cost the world $10.5 trillion annually by 2025, makin
 
 The following datasets will be used to explore fraud detection patterns and evaluate AI-based cybersecurity solutions:
 
-Credit Card Fraud Detection Dataset
+1.Credit Card Fraud Detection Dataset
 
 Source: Kaggle (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 Description: Contains anonymized credit card transactions, with labels indicating fraudulent vs. non-fraudulent transactions. Useful for training AI models in fraud detection.
 
-Financial Fraud Detection Dataset
+2.Financial Fraud Detection Dataset
 
 Source: Kaggle (https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset)
 
 Description: Synthetic dataset of mobile money transactions labeled as fraudulent or genuine, aiding in the study of transaction-based fraud detection.
 
-Phishing Websites Dataset
+3.Phishing Websites Dataset
 
 Source: Kaggle (https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset)
 
@@ -50,4 +50,4 @@ Description: Includes attributes of legitimate and phishing websites, helping id
 
 - Providing real-time monitoring and visual analytics.
 
-Assisting policymakers and financial institutions in designing better fraud prevention strategies.
+- Assisting policymakers and financial institutions in designing better fraud prevention strategies.
