@@ -3,7 +3,7 @@
 ## Executive Summary
 Cyber fraud is a growing threat worldwide, with phishing attacks, credit card fraud, and unauthorized financial transactions affecting millions of users. Traditional security methods struggle to keep up with sophisticated threats, leading to significant financial losses. This project leverages AI and machine learning to enhance fraud detection and cybersecurity by analyzing data from real-world datasets. Using Python, R, and Tableau, we will explore patterns in fraudulent transactions, identify common phishing site characteristics, and build AI-based models to improve detection accuracy.
 
-[Click here for Background.md]
+[Read Detailed Background Information here]{https://github.com/Yamunas123/BSAD_482_Project/blob/main/Background.md}
 
 ## Key Performance Indicators (KPIs)
 1.	Fraud Detection Accuracy: Measures the percentage of fraudulent transactions correctly identified by AI models. A higher accuracy rate improves cybersecurity resilience.
