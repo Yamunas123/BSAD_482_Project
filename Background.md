@@ -1,53 +1,51 @@
-# Title: Enhancing Cybersecurity with AI: Detecting and Preventing Fraudulent Activities
+# Title:  Airline Performance & Flight Delays Analysis
 
 ##  Introduction
 
-In today’s digital landscape, cyber threats are evolving rapidly, causing substantial financial and data losses worldwide. Fraudulent activities such as phishing, credit card fraud, and financial scams are increasing in sophistication, making them harder to detect using traditional security measures. Artificial Intelligence (AI) and machine learning algorithms have become essential in combating cyber fraud by detecting anomalies, recognizing patterns, and predicting potential attacks in real-time. This study aims to leverage AI-driven approaches to analyze cyber fraud trends, evaluate existing prevention mechanisms, and propose improvements based on open-source datasets.
+Flight delays are a major concern in the aviation industry, causing inconvenience to passengers and financial losses to airlines. Understanding the key factors contributing to delays can help airlines improve operational efficiency, optimize scheduling, and enhance passenger satisfaction. This project aims to analyze airline performance and identify patterns in flight delays using Tableau and Tableau Prep.
 
 ## Problem Context
-
-Cybercrime is projected to cost the world $10.5 trillion annually by 2025, making it one of the largest economic threats globally (Cybersecurity Ventures, 2023). Traditional fraud detection methods, such as rule-based systems, struggle to keep up with evolving threats, leading to high false positive rates and missed fraud attempts. Fraudulent transactions, phishing attacks, and unauthorized access incidents create a significant burden on financial institutions, businesses, and consumers.
+According to the Bureau of Transportation Statistics (BTS), over 20% of flights experience delays each year due to factors such as weather conditions, airline operations, and airport congestion. Delays impact airline reputations, increase operational costs, and affect customer satisfaction. By leveraging data analytics, we can identify trends, predict potential delays, and recommend solutions to improve flight punctuality.
 
 ## Key Challenges:
+- Identifying the main causes of flight delays (weather, airline operations, security, etc.).
 
-- High False Positive Rates: Many fraud detection systems generate excessive false alerts, causing inefficiencies.
+- Understanding which airlines and airports experience the most delays.
 
-- Real-Time Detection Needs: Delays in identifying fraudulent activities increase financial and reputational risks.
+- Predicting delay patterns based on historical data.
 
-- Adaptive Cyber Threats: Fraudsters continuously modify tactics, making static detection models ineffective.
+- Improving airline scheduling to reduce delays.
 
-- The project focuses on how AI-driven cybersecurity measures can enhance fraud detection by analyzing trends from multiple datasets and developing predictive analytics models.
 
 ## Available Datasets
 
-The following datasets will be used to explore fraud detection patterns and evaluate AI-based cybersecurity solutions:
+The following datasets will be used for analysis:
 
-1.Credit Card Fraud Detection Dataset
+- US Domestic Flight Delays Dataset
 
-Source: Kaggle (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+Source: Kaggle (https://www.kaggle.com/datasets/giovamata/airlinedelaycauses)
 
-Description: Contains anonymized credit card transactions, with labels indicating fraudulent vs. non-fraudulent transactions. Useful for training AI models in fraud detection.
+Description: Contains delay causes for US domestic flights, including weather, airline issues, security, and air traffic control delays.
 
-2.Financial Fraud Detection Dataset
+- Airline Dataset
 
-Source: Kaggle (https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset)
+Source: Kaggle (https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset)
 
-Description: Synthetic dataset of mobile money transactions labeled as fraudulent or genuine, aiding in the study of transaction-based fraud detection.
+Description: Provides information on airline details, performance metrics, and operational statistics, which can be used to analyze airline efficiency and service quality.
 
-3.Phishing Websites Dataset
+- Airline Passenger Satisfaction Dataset
 
-Source: Kaggle (https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset)
+Source: Kaggle (https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction)
 
-Description: Includes attributes of legitimate and phishing websites, helping identify common features of fraudulent online pages.
+Description: Includes customer feedback on airline services, seat comfort, flight punctuality, and overall satisfaction ratings.
 
 ## Relevance to Decision Intelligence
+By analyzing flight performance and delays, airlines and aviation authorities can:
 
-- The use of AI in cybersecurity can improve decision-making by:
+- Identify the most common delay causes.
 
-- Enhancing fraud detection through machine learning.
+- Improve scheduling efficiency based on peak delay times.
 
-- Reducing false positive rates using predictive modeling.
+- Optimize customer experience by reducing delays and improving service.
 
-- Providing real-time monitoring and visual analytics.
-
-- Assisting policymakers and financial institutions in designing better fraud prevention strategies.
+- Provide insights for airline and airport management teams to enhance operations.
