@@ -21,7 +21,7 @@ Cancellation Rate: Percentage of flights canceled due to various reasons.
 Kaggle: https://www.kaggle.com/datasets/giovamata/airlinedelaycauses
 
 - Airline Dataset 
-  Kaggle: https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset
+  Kaggle: https://www.kaggle.com/datasets/flashgordon/usa-airport-dataset
   
 - Airline Passenger Satisfaction Dataset
 Kaggle: https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
