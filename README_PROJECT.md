@@ -6,15 +6,13 @@ Flight delays significantly impact passengers and airline operations. This proje
 [Read Detailed Background Information Here](https://github.com/Yamunas123/BSAD_482_Project/blob/main/Background.md)
 
 ## Key Performance Indicators (KPIs)
-1.Average Flight Delay Time: Measures the average delay per airline and airport.
+* Most Impacted Airports by Flight Delays: Identifies airports with the highest average delay times.
 
-2.On-Time Performance Rate: Percentage of flights arriving on time.
+* Flight Route Traffic & Delay Mapping: Visual representation of flight routes and their delay frequencies.
 
-3.Top Delay Causes: Breakdown of delays by cause (weather, airline, security, etc.).
+* Delay Types by Airline: Breakdown of different delay types (Weather, Carrier, NAS, Security, Late Aircraft) across airlines.
 
-Cancellation Rate: Percentage of flights canceled due to various reasons.
-
-5.Customer Satisfaction Score: Correlation between delays and passenger satisfaction ratings.
+* Correlation Between Delay Duration and Passenger Satisfaction: Identifies how increasing delay times impact passenger satisfaction across various service factors.
 
 ## References
 - US Domestic Flight Delays Dataset
