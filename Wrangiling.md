@@ -66,6 +66,7 @@ The following visualizations were created in **Tableau** to analyze flight perfo
 - Airlines with a high share of **carrier delays** may need to improve operational efficiency, while those with **weather-related delays** may need to optimize scheduling strategies.
 
 #### **4. Correlating Satisfaction Scores with Delays**
+![](https://github.com/Yamunas123/BSAD_482_Project/blob/bb109d4a5ab78c8d5cb75c9174fbf657bc0d0d3e/Images/relation.png)
 - A **scatter plot with trend lines** that examines how **departure delays impact customer satisfaction**.
 - Each dot represents a flight’s delay time and its corresponding **passenger satisfaction score**.
 - The trend lines indicate how satisfaction changes for different factors (e.g., seat comfort, baggage handling, inflight service).
