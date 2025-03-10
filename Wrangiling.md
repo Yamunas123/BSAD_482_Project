@@ -54,7 +54,7 @@ The following visualizations were created in **Tableau** to analyze flight perfo
 - Darker nodes indicate **major hub airports** (e.g., JFK, LAX), where delays could have a cascading effect on the network.
 
 #### **2. Airports with the Worst Delays**
-
+![](https://github.com/Yamunas123/BSAD_482_Project/blob/de4a2de636fa245afc3e9942efff8e6c4705bd7c/Images/Airports.png)
 - Displays which **airports experience the longest average arrival delays**.
 - Uses a **bubble map** where larger, darker bubbles represent **higher average delay times**.
 - Helps identify **problematic airports** that contribute to systemic flight delays.
