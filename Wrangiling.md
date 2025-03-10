@@ -60,6 +60,7 @@ The following visualizations were created in **Tableau** to analyze flight perfo
 - Helps identify **problematic airports** that contribute to systemic flight delays.
 
 #### **3. Delay Types Across Airlines**
+![](https://github.com/Yamunas123/BSAD_482_Project/blob/e2ff8cc01a7bd147a9c8aab71dee6a5524a29e9d/Images/Airlines.png)
 - A **stacked bar chart** that categorizes delay causes (**Carrier, Weather, NAS, Late Aircraft, and Security Delays**) per airline.
 - Allows comparison of **which airlines suffer most from delays** and what type of delay affects them the most.
 - Airlines with a high share of **carrier delays** may need to improve operational efficiency, while those with **weather-related delays** may need to optimize scheduling strategies.
