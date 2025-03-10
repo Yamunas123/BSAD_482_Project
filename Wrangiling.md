@@ -48,7 +48,7 @@ The following preprocessing steps were performed using **Tableau Prep**:
 The following visualizations were created in **Tableau** to analyze flight performance, delays, and customer satisfaction:
 
 #### **1. Flight Routes & Airport Network Mapping**
-![](https://github.com/Yamunas123/BSAD_482_Project/blob/9dc6c3b29450a1aa731b52343604b35a53e3ff63/Images/FlightRouts.png)
+![](https://github.com/Yamunas123/BSAD_482_Project/blob/6e4d4ca0b0ca402682660bbd4709de72e5499998/Images/Routs.png)
 - This visualization shows the **most frequently traveled routes** and highlights **airports with the highest passenger traffic**.
 - The **line thickness** represents the volume of flights on each route.
 - Darker nodes indicate **major hub airports** (e.g., JFK, LAX), where delays could have a cascading effect on the network.
