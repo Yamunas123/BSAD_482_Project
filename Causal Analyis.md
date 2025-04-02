@@ -19,7 +19,7 @@ We applied the **DoWhy** causal inference framework to model the causal effect o
 
 ### Causal Structure
 
-
+![CausalModel](Images/CausalModel.png)
 
 This Directed Acyclic Graph (DAG) assumes:
 
