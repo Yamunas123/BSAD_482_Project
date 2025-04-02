@@ -5,8 +5,7 @@
 We started by exploring the **linear correlations** between key performance indicators (KPIs) using a heatmap.
 
 ### Correlation Heatmap:
-
-
+![Correlation Matrix](Images/HeatMap.png)
 
 ### Key Observations:
 - **Departure Delay** and **Arrival Delay** show a **strong positive correlation (0.96)**, which is expected.
@@ -14,11 +13,11 @@ We started by exploring the **linear correlations** between key performance indi
 - **Seat Comfort**, **Inflight Service**, and **Check-in Service** have **moderate positive correlations** with **Satisfaction Score**, suggesting service quality plays a vital role.
 - **Baggage Handling** shows **positive correlation** but with weaker strength.
 
-##Causal Inference Analysis
+## Causal Inference Analysis
 
 We applied the **DoWhy** causal inference framework to model the causal effect of **Flight Delays** on **Passenger Satisfaction**, accounting for service quality as mediators.
 
-### Assumed Causal Structure
+### Causal Structure
 
 
 
