@@ -50,7 +50,7 @@ Visual breakdown of the **types of delays** (Carrier, Weather, NAS, Security, La
 ### d. Satisfaction Correlation with Delays
 Visual comparisons of satisfaction scores based on delay experiences across **service metrics** like seat comfort, check-in service, and baggage handling.
 
-[See Full Wrangling & EDA Summary](Wrangling.md)
+[See Full Wrangling & EDA Summary](Wrangiling.md)
 
 ## Statistical Analysis
 
