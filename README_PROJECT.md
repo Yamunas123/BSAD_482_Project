@@ -80,7 +80,7 @@ We built a **Directed Acyclic Graph (DAG)** to represent our assumptions:
 
 We then used the **DoWhy library** to compute the **Average Treatment Effect (ATE)** using **backdoor adjustment (linear regression)**.
 
-[See Full Causal Analysis & Results](CausalAnalyis.md)
+[See Full Causal Analysis & Results](Causal Analyis.md)
 
 
 ## Key Insights
