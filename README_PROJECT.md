@@ -66,7 +66,6 @@ We applied both **correlation analysis** and **causal inference modeling** to ex
 
 > Correlation identifies patterns — but to assess true causality, we used DoWhy for inference.
 
----
 
 ### Causal Inference Model
 
