@@ -5,13 +5,13 @@
 1. [Introduction](#Introduction)
 2. [Research Objective](#research-objective)
 3. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
-   a. [Flight Route Mapping](#flight-route-mapping)  
-   b. [Airports with Worst Delays](#airports-with-worst-delays)  
-   c. [Delay Types Across Airlines](#delay-types-across-airlines)  
-   d. [Satisfaction Correlation with Delays](#satisfaction-correlation-with-delays)  
+   a. [Flight Route Mapping](##flight-route-mapping)  
+   b. [Airports with Worst Delays](##airports-with-worst-delays)  
+   c. [Delay Types Across Airlines](##delay-types-across-airlines)  
+   d. [Satisfaction Correlation with Delays](##satisfaction-correlation-with-delays)  
 4. [Statistical Analysis](#statistical-analysis)  
-   a. [Correlation Heatmap](#correlation-heatmap)  
-   b. [Causal Inference Model](#causal-inference-model)  
+   a. [Correlation Heatmap](##correlation-heatmap)  
+   b. [Causal Inference Model](##causal-inference-model)  
 5. [Key Insights](#key-insights)
 6. [References](#references)
 
@@ -80,7 +80,7 @@ We built a **Directed Acyclic Graph (DAG)** to represent our assumptions:
 
 We then used the **DoWhy library** to compute the **Average Treatment Effect (ATE)** using **backdoor adjustment (linear regression)**.
 
-[See Full Causal Analysis & Results](Causal Analyis.md)
+[See Full Causal Analysis & Results](CausalAnalysis.md)
 
 
 ## Key Insights
