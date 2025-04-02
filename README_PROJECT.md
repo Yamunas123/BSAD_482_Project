@@ -38,16 +38,16 @@ Through the integration of exploratory visualizations and statistical methods, t
 
 We used Tableau and Tableau Prep to visualize key patterns in delay performance and satisfaction across U.S. airports.
 
-### a. Flight Route Mapping
+### Flight Route Mapping
 Mapped the most trafficked flight routes and identified delay concentrations across major airports.
 
-### b. Airports with Worst Delays
+### Airports with Worst Delays
 Bar chart highlighting the airports with the **highest average arrival delays**, helping to pinpoint regions with consistent service issues.
 
-### c. Delay Types Across Airlines
+### Delay Types Across Airlines
 Visual breakdown of the **types of delays** (Carrier, Weather, NAS, Security, Late Aircraft) grouped by airline.
 
-### d. Satisfaction Correlation with Delays
+### Satisfaction Correlation with Delays
 Visual comparisons of satisfaction scores based on delay experiences across **service metrics** like seat comfort, check-in service, and baggage handling.
 
 [See Full Wrangling & EDA Summary](Wrangiling.md)
